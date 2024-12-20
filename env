@@ -1,0 +1,30 @@
+# General Configuration
+PORT=3000
+NODE_ENV=production
+SECRET_KEY=your_secret_key
+
+# PostgreSQL Database Connection
+POSTGRES_HOST=your_postgres_host
+POSTGRES_PORT=5432
+POSTGRES_DB=your_database_name
+POSTGRES_USER=your_database_user
+POSTGRES_PASSWORD=your_database_password
+
+# Redis Configuration
+REDIS_HOST=your_redis_host
+REDIS_PORT=6379
+
+# GCP Configuration
+GCP_PROJECT_ID=your_project_id
+GCP_PUBSUB_TOPIC=your_pubsub_topic
+GCP_PUBSUB_SUBSCRIPTION=your_pubsub_subscription
+GCP_API_KEY=your_gcp_api_key
+
+# MarketStack API
+MARKETSTACK_API_KEY=your_marketstack_api_key
+
+# Email Configuration
+EMAIL_HOST=your_email_host
+EMAIL_PORT=your_email_port
+EMAIL_USER=your_email_user
+EMAIL_PASSWORD=your_email_password
