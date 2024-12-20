@@ -1,4 +1,3 @@
-# StockTickerMicroServices
 # Stock Ticker Microservices
 
 A high-performance stock tracking application utilizing Go, Python, and Node.js microservices. This app fetches stock data, logs it, and sends periodic email notifications to users.
