@@ -14,6 +14,7 @@ A high-performance stock tracking application utilizing Go, Python, and Node.js 
 - **Cloud**: Google Cloud Platform (GCP), Pub/Sub
 - **Containerization**: Docker, Docker Compose
 - **CI/CD**: GitHub Actions, Cloud Build
+- **Testing**: JEST,PYLINT
 
 ## How to Run Locally
 1. Clone the repository:
